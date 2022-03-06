@@ -52,7 +52,9 @@ AND location <> 'Low income' -- Filtering Socio-Economics from Locations
 GROUP BY location
 ORDER BY TotalDeathCount DESC
 
--- WORLDWIDE NUMBERS until 22 January 2022
+-- WORLDWIDE NUMBERS until 22 January 2022 
+
+--Tableau Viz in Readme.md from this folder
 SELECT date,  MAX(total_cases) AS CASES, MAX(total_deaths) AS DEATHS, MAX((total_deaths/total_cases))*100 AS DeathPercentage
 FROM PortfolioProject..CovidDeaths
 WHERE continent is not null
