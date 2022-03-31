@@ -1,11 +1,12 @@
 ### SQL Portfolio for Data Analysis
-Showcasing some of the project I have done recently
-To display my experience using functions in SQL
+Showcasing my experience using SQL by displaying some of the project I have done recently.
 
-<b>SKILLS Used:</b> Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types, Data Cleaning.
+<b>SKILLS Used:</b> *Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types, Data Cleaning.*
 
 #### Index
-1. Project 1 (Covid Analysis)
-Focus on obtaining data from Infection Rate, Death Rate and Vaccination Rate for Mexico and Worldwide.
+1. **Project 1** (Covid Analysis)
+   1. Focus on obtaining data from Infection Rate, Death Rate and Vaccination Rate for Mexico and Worldwide.
 
-2. Project 2 (Data Cleaning)
+2. **Project 2** (Data Cleaning)
+   1. Cleaning data in SQL using MSSQL.
+

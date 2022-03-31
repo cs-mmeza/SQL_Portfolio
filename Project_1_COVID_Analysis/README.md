@@ -1,4 +1,4 @@
-#### Covid Analysis in SQL
+### Covid Analysis in SQL
 
 <strong>Query File:</strong> COVID_Data_m.sql
 
@@ -9,6 +9,6 @@ I also created A Tableau visualization with the global data from one of the quer
 
 <strong>Tableau Viz:</strong> 
 
-https://public.tableau.com/views/Covid_2020-2022/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+![Tableau Visualization, Population infection over time](/Images/Covid_data_viz.PNG)
 
-![Tableau Visualization, Population infection over time](/images/Covid_data_viz.png)
+https://public.tableau.com/views/Covid_2020-2022/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
